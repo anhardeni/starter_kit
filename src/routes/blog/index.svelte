@@ -77,11 +77,10 @@
     border-radius: 5px;
   }
 
-    .posts {
-    padding: 10px;
-    border: 1px solid #ddd;
-    box-shadow: 0 0 10px #eee;
-  }
+  
+
+
+
   h2 {
     margin: 0;
   }
